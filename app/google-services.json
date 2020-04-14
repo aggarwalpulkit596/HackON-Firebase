@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "879755054275",
+    "firebase_url": "https://hackon-75da6.firebaseio.com",
+    "project_id": "hackon-75da6",
+    "storage_bucket": "hackon-75da6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:879755054275:android:21d1de431b1f2d9a742676",
+        "android_client_info": {
+          "package_name": "com.codingblocks.hackon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "879755054275-vh055pd9vigsa2ge0f3i90lhsbndomkv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.codingblocks.hackon",
+            "certificate_hash": "045d03c53b977ce83094ddd639512ed015c8ffc0"
+          }
+        },
+        {
+          "client_id": "879755054275-u4sfa6vd3c3ret6j6gbcelvlf0vbhprn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJej0BxFVIpMNljuRbdwtzx2O89Ls2zqQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "879755054275-u4sfa6vd3c3ret6j6gbcelvlf0vbhprn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
